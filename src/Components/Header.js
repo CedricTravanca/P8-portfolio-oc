@@ -37,12 +37,12 @@ function Header() {
         <ul className="dark:text-light-content font-medium md:flex items-center md:space-x-5 md:mr-10">
           <li className="pb-1 md:pb-0">
             <NavLink to="/" onClick={toggleClass}>
-              Home
+              Accueil
             </NavLink>
           </li>
           <li className="pb-1 md:pb-0">
             <NavLink to="/about" onClick={toggleClass}>
-              About
+              A propos
             </NavLink>
           </li>
           <li className="pb-1 md:pb-0">
@@ -52,7 +52,7 @@ function Header() {
           </li>
           <li className="pb-1 md:pb-0">
             <NavLink to="/projects" onClick={toggleClass}>
-              Projects
+              Projets
             </NavLink>
           </li>
           <li>
