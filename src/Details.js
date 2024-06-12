@@ -58,25 +58,25 @@ export const socialMediaUrl = {
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Conseiller en gestion de patrimoine",
+    Company: `IFB France`,
+    Location: "France",
+    Type: "Temps plein",
+    Duration: "Decembre 2019 - Aujourd'hui",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Responsable d'agence ",
+    Company: `Maisons pierre`,
+    Location: "Paris 14",
+    Type: "Temps plein",
+    Duration: "Septembre 2018 - Novembre 2019",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Conseiller commercial",
+    Company: `Maisons pierre`,
+    Location: "Thiais",
+    Type: "Temps plein",
+    Duration: "Septembre 2015 - Aout 2018",
   },
 ];
 
@@ -116,58 +116,28 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Project title 1",
+    title: "Projet Booki",
     image: projectImage1,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `Création de la page web d'accueil d'une agence de voyage en utilisant HTML & CSS`,
+    techstack: "HTML/CSS",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/CedricTravanca/Projet-2-Booki",
   },
   {
-    title: "Project title 2",
+    title: "Projet Kasa",
     image: projectImage2,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `Création d'une application web de location immobilière a l'aide de React`,
+    techstack: "HTML/CSS/Sass, JavaScript, React",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/CedricTravanca/Projet-6-kasa",
   },
   {
-    title: "Project title 3",
+    title: "Projet Nina Carducci",
     image: projectImage3,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `Débuggage et optimisation du site web d'une photographe `,
+    techstack: "HTML/CSS, JavaScript, Lighthouse, Wave",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 4",
-    image: projectImage4,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 5",
-    image: projectImage5,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 6",
-    image: projectImage6,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/CedricTravanca/Projet-5-nina-carducci-modif",
   },
 ];
 
