@@ -38,10 +38,14 @@ export const personalDetails = {
   name: "Cedric Travanca",
   tagline: "Je suis developpeur web",
   img: profile,
-  about: `Je suis un développeur web junior passionné et déterminé. Ayant toujours été fasciné par le monde numérique et la manière dont les technologies peuvent transformer notre vie quotidienne, j'ai choisi de m'engager dans ce domaine en me spécialisant dans le développement web. Mon parcours de formation m'a permis d'utiliser différents languages et technologies notamment en HTML, CSS, JavaScript.
-Ce qui me motive particulièrement dans cette profession est la possibilité de créer des solutions innovantes qui répondent aux besoins réels des utilisateurs.
-En tant que développeur web junior, je suis prêt à relever des défis et à apprendre rapidement. Je suis également très ouvert à travailler en équipe et à collaborer étroitement avec les autres membres de l'équipe pour atteindre nos objectifs communs. Ma motivation est alimentée par le désir constant d'améliorer et de contribuer positivement au domaine du développement web.
-Je suis impatient de mettre mes compétences et ma passion au service de projets stimulants et innovants, où je pourrais apporter ma contribution tout en continuant à grandir professionnellement..`,
+  about: `<p>Je suis un développeur web junior motivé et déterminé.<br> Ayant toujours été fasciné par le monde numérique et la manière dont les technologies peuvent transformer notre vie quotidienne, j'ai choisi de m'engager dans ce domaine en me spécialisant dans le développement web.<br><br>
+  Mon parcours de formation m'a permis d'utiliser différents languages et technologies notamment en HTML, CSS, JavaScript.
+
+Ce qui me motive particulièrement dans cette profession est la possibilité de créer des solutions innovantes qui répondent aux besoins réels des utilisateurs.<br><br>
+
+En tant que développeur web junior, je suis prêt à relever des défis et à apprendre rapidement. Je suis également très ouvert à travailler en équipe et à collaborer étroitement avec les autres membres de l'équipe pour atteindre nos objectifs communs.<br> Ma motivation est alimentée par le désir constant d'améliorer et de contribuer positivement au domaine du développement web.<br><br>
+
+Je suis impatient de mettre mes compétences et ma passion au service de projets stimulants et innovants, où je pourrais apporter ma contribution tout en continuant à grandir professionnellement..</p>`,
 };
 
 // Enter your Social Media URLs here
