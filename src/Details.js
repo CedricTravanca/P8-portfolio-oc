@@ -47,7 +47,7 @@ Je suis impatient de mettre mes compétences et ma passion au service de projets
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
+  linkdein: "https://www.linkedin.com/in/cedric-travanca-dev-web/",
   github: "https://github.com/CedricTravanca",
   instagram: "https://www.instagram.com/",
 };
