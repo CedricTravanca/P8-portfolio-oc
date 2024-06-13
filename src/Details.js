@@ -117,6 +117,8 @@ export const projectDetails = [
     image: projectImage1,
     description: `Création de la page web d'accueil d'une agence de voyage en utilisant HTML & CSS`,
     techstack: "HTML/CSS",
+    difficulties: <p>La complexité ici, était de placer certains éléments comme les cards dans d'autres éléments, en gardans les bonnes proportions et parametres tout en restant en responsive car il y a ici beaucoup d'éléments de mise en page.<br/> <br/>
+    La solution pour moi à été de faire un découpage de la maquette afin d'identifier toutes les parties et visualiser quel élément devra s'intégré dans l'autre, où lui appliquer sa classe etc...</p>,
     previewLink: "https://cedrictravanca.github.io/Projet-2-Booki/",
     githubLink: "https://github.com/CedricTravanca/Projet-2-Booki",
   },
@@ -125,6 +127,8 @@ export const projectDetails = [
     image: projectImage2,
     description: `Création d'une application web de location immobilière a l'aide de React`,
     techstack: "HTML/CSS/Sass, JavaScript, React",
+    difficulties: <p>Dans ce projet, la difficulté est de ne pas se répéter dans son code et de créer différentes pages accessibles les unes à partir des autres.<br/> <br/>
+    Pour cela, j'ai créé des composants qui vont être appelés par l'applicaiton en fonction du besoin de les afficher ou non et des routes, afin de différencier les différentes parties de mon site web. Ce processus permet trier les elements, rendre son code plus propre et de ne pas repeter un code plusieurs fois dans des pages différentes.</p>,
     previewLink: "https://cedrictravanca.github.io/Projet-6-kasa/",
     githubLink: "https://github.com/CedricTravanca/Projet-6-kasa",
   },
@@ -133,6 +137,8 @@ export const projectDetails = [
     image: projectImage3,
     description: `Débuggage et optimisation du site web d'une photographe `,
     techstack: "HTML/CSS, JavaScript, Lighthouse, Wave",
+    difficulties: <p>Pour améliorer la note de l'audit de ce site, améliorer le référencement, corriger certains bugs et diminuer le poids des photos, mais ce site étant celui d'une photographe professionnel, je devais par conséquent garder une bonne qualité d'image tout en ayant un bon score lighthouse.<br/> <br/>
+    Il a fallu pour cela que j'utilise des formats d'image différents et que je change la qualité d'affichage des images selon la taille de l'écran de lecture. J'ai également utiliser des balises méta afin d'amélioré le référencement.</p>,
     previewLink: "https://cedrictravanca.github.io/Projet-5-nina-carducci-modif/",
     githubLink: "https://github.com/CedricTravanca/Projet-5-nina-carducci-modif",
   },

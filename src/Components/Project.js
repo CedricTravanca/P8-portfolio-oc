@@ -1,6 +1,6 @@
 import React from "react";
 
-function Project({ title, image, description, techstack, previewLink, githubLink }) {
+function Project({ title, image, description, techstack, difficulties, previewLink, githubLink }) {
   return (
     <article className="rounded-m mt-10 overflow-hidden shadow-xl shadow-slate-300 dark:shadow-slate-900">
       <img src={image} alt="" loading="lazy" />
@@ -10,6 +10,8 @@ function Project({ title, image, description, techstack, previewLink, githubLink
         <h3 className="text-dark-heading dark:text-light-heading font-medium pt-4">
         Compétences techniques : <span className="font-light">{techstack}</span>
         </h3>
+        <h1 className="text-orange-200 font-semibold text-lg pt-4">Problematiques rencontrées:</h1>
+        <p className="pt-2 font-light text-orange-200">{difficulties}</p>
         <div className="flex justify-between items-center mt-5">
           <div className="flex items-center">
             <svg
