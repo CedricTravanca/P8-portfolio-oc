@@ -117,7 +117,7 @@ export const projectDetails = [
     image: projectImage1,
     description: `Création de la page web d'accueil d'une agence de voyage en utilisant HTML & CSS`,
     techstack: "HTML/CSS",
-    previewLink: "https://google.com",
+    previewLink: "https://cedrictravanca.github.io/Projet-2-Booki/",
     githubLink: "https://github.com/CedricTravanca/Projet-2-Booki",
   },
   {
@@ -125,7 +125,7 @@ export const projectDetails = [
     image: projectImage2,
     description: `Création d'une application web de location immobilière a l'aide de React`,
     techstack: "HTML/CSS/Sass, JavaScript, React",
-    previewLink: "https://google.com",
+    previewLink: "https://cedrictravanca.github.io/Projet-6-kasa/",
     githubLink: "https://github.com/CedricTravanca/Projet-6-kasa",
   },
   {
@@ -133,7 +133,7 @@ export const projectDetails = [
     image: projectImage3,
     description: `Débuggage et optimisation du site web d'une photographe `,
     techstack: "HTML/CSS, JavaScript, Lighthouse, Wave",
-    previewLink: "https://google.com",
+    previewLink: "https://cedrictravanca.github.io/Projet-5-nina-carducci-modif/",
     githubLink: "https://github.com/CedricTravanca/Projet-5-nina-carducci-modif",
   },
 ];
