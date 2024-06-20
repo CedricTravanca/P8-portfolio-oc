@@ -11,11 +11,11 @@ function App() {
     <Router>
       <Header />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="/projects" element={<Projects />} />
-        <Route path="/technologies" element={<Technologies />} />
+        <Route path="/P8-portfolio-oc/" element={<Home />} />
+        <Route path="/P8-portfolio-oc/about" element={<About />} />
+        <Route path="/P8-portfolio-oc/contact" element={<Contact />} />
+        <Route path="/P8-portfolio-oc/projects" element={<Projects />} />
+        <Route path="/P8-portfolio-oc/technologies" element={<Technologies />} />
       </Routes>
       <Footer />
     </Router>
